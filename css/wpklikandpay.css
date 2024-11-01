@@ -1,0 +1,58 @@
+.storeMainConfiguration {	width:80%;	}
+.storeMainConfiguration th{	font-weight:normal;text-align:left;width:30%;	}
+.storeMainConfiguration td input{	width:50% !important;	}
+.optionMessage{	width:60%; margin:0px auto; text-align:center; font-weight:bold;	}
+
+.wpklikandpayRowAction{	visibility:hidden;	}
+tr:hover .wpklikandpayRowAction{	visibility:visible;	}
+
+.wpklikandpay_form_label{	width:25%;	}
+
+.bold{	font-weight:bold;	}
+.wpklikandpayHide{	display:none;	}
+.wpklikandpayPageIcon{		}
+.wpklikandpayPageMessage{	width:70%; text-align:center; margin:3px auto !important; padding:6px;	}
+.wpklikandpayPageMessage_Updated{ background-color: #FFFFE0; border:1px solid #E6DB55;	}
+.wpklikandpayPageMessage_Fixed{	position:fixed; margin:0px auto; width:70%; top:40px; float:right; z-index:1000;	}
+.wpklikandpayPageMessage_Icon{	vertical-align:middle; margin:0px 6px 0px;	}
+
+.wpklikandpayPageHeaderButton{	float:right; padding:17px 18px 0px 0px;	}
+.wpklikandpayPageHeaderButton_Fixed{	float:right; padding:6px !important;	}
+.wpklikandpayPageTitle_Fixed .wpklikandpayCancelButton{	padding:8px 0px 0px !important; margin:0px !important;	}
+.wpklikandpayCancelButton{	padding:8px 0px 0px !important;	}
+
+.wpklikandpay_form_input input.offerTitleinput{	width:90% !important;	}
+
+.wpklikandpay_form_label{	width:20%; vertical-align:top;	}
+.wpklikandpay_form_input{	width:50%;	}
+.wpklikandpay_form_input textarea, .wpklikandpay_form_input select, .wpklikandpay_form_input input[type=text], .wpklikandpay_form_input input[type=file]{	width:60%;	}
+.wpklikandpay_form_input input[type=radio], .wpklikandpay_form_input input[type=checkbox]{	margin:0px 1px 0px 6px; vertical-align:middle;	}
+
+.wpklikandpay_form_label_offer{	width:49%; vertical-align:top;	}
+.wpklikandpay_form_input_offer{	width:49%;	}
+.wpklikandpay_form_input_offer_multiple{	width:40%;	}
+.wpklikandpay_form_input_offer textarea, .wpklikandpay_form_input_offer select, .wpklikandpay_form_input_offer input[type=text], .wpklikandpay_form_input_offer input[type=file]{	width:95% !important;	}
+.wpklikandpay_form_input_offer input[type=radio], .wpklikandpay_form_input_offer input[type=checkbox]{	margin:0px 1px 0px 6px; vertical-align:middle;	}
+
+.wpklikandpayFormFieldHelp{	font-size:9px; color:grey; line-height:1em !important;	}
+
+.formCodeContainer{	clear:both; width:100%; height:350px; }
+
+.payment_form_code{	text-align:center; background-color:#DDDDDD; color:#000000; font-weight:bold; border:1px solid grey; margin:6px auto; width:30%; padding:9px 0px;	}
+.paymentFormContainer{	text-align:center; margin:12px 0px 0px; }
+
+#wpklikandpayMultiplePaymentFieldContainer legend{	font-weight:bold; text-decoration:underline;	}
+#wpklikandpayMultiplePaymentFieldContainer div{	margin:0px 6px;	}
+
+#wpklikandpaySubscriptionPaymentFieldContainer legend{	font-weight:bold; text-decoration:underline;	}
+#wpklikandpaySubscriptionPaymentFieldContainer div{	margin:0px 6px;	}
+
+#wpklikandpayAddNewOffer{	float:right; margin:12px 0px;	}
+
+.deleteOfferAssociation{	cursor:pointer; background: url("../medias/jquery-ui/ui-icons_cd0a0a_256x240.png"); background-position: -80px -128px;	}
+
+.subscriptionPaymentOver{	cursor:normal; background: url("../medias/jquery-ui/ui-icons_cd0a0a_256x240.png"); background-position: 0px -143px;	}
+
+.orderSection{	margin:12px 0px 0px;	}
+.orderSection div{	margin:0px 6px;	}
+.orderSectionMainTitle{	font-weight:bold; text-decoration:underline;	}

@@ -1,0 +1,12 @@
+.clear{	clear:both;	}
+.wpklikandpay_form_label{	display:table; width:30%; vertical-align:top; float:left;	}
+.wpklikandpay_form_input{	width:50%; margin:0px 0px 3px !important;	}
+.wpklikandpay_form_input textarea, .wpklikandpay_form_input select, .wpklikandpay_form_input input[type=text], .wpklikandpay_form_input input[type=file]{	width:60% !important;	}
+.wpklikandpay_form_input input[type=radio], .wpklikandpay_form_input input[type=checkbox]{	margin:0px 1px 0px 6px; vertical-align:middle;	}
+
+.errorFieldAlert{	margin:6px 0px; border:1px dashed #990000; background-color:#FFFF66; color:red; width:80%; text-align:center;	}
+.mandatoryFieldAlert{	margin:6px 0px; border:1px dashed #990000; background-color:#FFFF66; color:red; width:80%; text-align:center;	}
+.isMandatoryField{	color:red;	}
+
+.wpKlikAndPayButtonFormPayment{	border:0px solid black;	}
+.wpKlikAndPayButtonFormPrePayment{	border:0px solid black;	}

@@ -1,0 +1,773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp-Paybox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-07 11:51+0100\n"
+"PO-Revision-Date: 2011-07-07 11:51+0100\n"
+"Last-Translator: Equipe de développement <dev@eoxia.com>\n"
+"Language-Team: développement eoxia <dev@eoxia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: ../../includes\n"
+
+#: ../../includes/configs/config.php:92
+msgid "Euro"
+msgstr "Euro"
+
+#: ../../includes/configs/config.php:93
+msgid "US Dollar"
+msgstr "US Dollar"
+
+#: ../../includes/languages/db_filed_list.php:12
+msgid "valid"
+msgstr "Activ&eacute;"
+
+#: ../../includes/languages/db_filed_list.php:13
+msgid "moderated"
+msgstr "D&eacute;sactiv&eacute;"
+
+#: ../../includes/languages/db_filed_list.php:14
+msgid "deleted"
+msgstr "Supprim&eacute;"
+
+#: ../../includes/languages/db_filed_list.php:16
+msgid "status"
+msgstr "Statut"
+
+#: ../../includes/languages/db_filed_list.php:17
+msgid "order_status"
+msgstr "Statut de la commande"
+
+#: ../../includes/languages/db_filed_list.php:18
+msgid "order_currency"
+msgstr "Devise"
+
+#: ../../includes/languages/db_filed_list.php:19
+msgid "order_amount"
+msgstr "Montant"
+
+#: ../../includes/languages/db_filed_list.php:20
+msgid "order_reference"
+msgstr "R&eacute;f&eacute;rence de la commande"
+
+#: ../../includes/languages/db_filed_list.php:21
+msgid "order_error"
+msgstr "Code retour"
+
+#: ../../includes/languages/db_filed_list.php:22
+msgid "order_transaction"
+msgstr "Identifiant transaction"
+
+#: ../../includes/languages/db_filed_list.php:23
+msgid "order_autorisation"
+msgstr "Num&eacute;ro identification"
+
+#: ../../includes/languages/db_filed_list.php:24
+msgid "creation_date"
+msgstr "Date de cr&eacute;ation"
+
+#: ../../includes/languages/db_filed_list.php:25
+msgid "order_creation_date"
+msgstr "Date de l'achat"
+
+#: ../../includes/languages/db_filed_list.php:26
+msgid "offer_id"
+msgstr "Identifiant de l'offre"
+
+#: ../../includes/languages/db_filed_list.php:27
+msgid "order_transaction_nb"
+msgstr "Num&eacute;ro de la transaction"
+
+#: ../../includes/languages/db_filed_list.php:29
+msgid "none"
+msgstr "Inconnu"
+
+#: ../../includes/languages/db_filed_list.php:30
+msgid "initialised"
+msgstr "Initialis&eacute;"
+
+#: ../../includes/languages/db_filed_list.php:31
+msgid "in_progress"
+msgstr "En cours"
+
+#: ../../includes/languages/db_filed_list.php:32
+msgid "closed"
+msgstr "Termin&eacute;"
+
+#: ../../includes/languages/db_filed_list.php:33
+msgid "payed"
+msgstr "Pay&eacute;"
+
+#: ../../includes/languages/db_filed_list.php:35
+msgid "user_email"
+msgstr "Votre email"
+
+#: ../../includes/languages/db_filed_list.php:36
+msgid "user_lastname"
+msgstr "Votre nom"
+
+#: ../../includes/languages/db_filed_list.php:37
+msgid "user_firstname"
+msgstr "Votre pr&eacute;nom"
+
+#: ../../includes/languages/db_filed_list.php:38
+msgid "user_phone"
+msgstr "Votre num&eacute;ro de t&eacute;l&eacute;phone"
+
+#: ../../includes/languages/db_filed_list.php:39
+msgid "user_adress"
+msgstr "Votre adresse"
+
+#: ../../includes/languages/db_filed_list.php:40
+msgid "user_birthday"
+msgstr "Votre date d'anniversaire (JJ/MM/AAAA)"
+
+#: ../../includes/languages/db_filed_list.php:41
+msgid "user_personnal_code"
+msgstr "Code personnel"
+
+#: ../../includes/languages/db_filed_list.php:42
+msgid "user_postal_code"
+msgstr "Votre code postal"
+
+#: ../../includes/languages/db_filed_list.php:43
+msgid "user_postal_town"
+msgstr "Votre ville"
+
+#: ../../includes/languages/db_filed_list.php:44
+msgid "user_postal_state"
+msgstr "Votre r&eacute;gion"
+
+#: ../../includes/languages/db_filed_list.php:45
+msgid "user_postal_country"
+msgstr "Votre pays"
+
+#: ../../includes/languages/db_filed_list.php:46
+#: ../../includes/librairies/payment_forms.class.php:803
+msgid "selectedOffer"
+msgstr "Offre d&eacute;sir&eacute;e"
+
+#: ../../includes/languages/db_filed_list.php:48
+msgid "user_email_admin_side"
+msgstr "Email du client"
+
+#: ../../includes/languages/db_filed_list.php:49
+msgid "user_lastname_admin_side"
+msgstr "Nom du client"
+
+#: ../../includes/languages/db_filed_list.php:50
+msgid "user_firstname_admin_side"
+msgstr "Pr&eacute;nom du client"
+
+#: ../../includes/languages/db_filed_list.php:51
+msgid "user_phone_admin_side"
+msgstr "Num&eacute;ro de t&eacute;l&eacute;phone du client"
+
+#: ../../includes/languages/db_filed_list.php:52
+msgid "user_adress_admin_side"
+msgstr "Adresse du client"
+
+#: ../../includes/languages/db_filed_list.php:53
+msgid "user_birthday_admin_side"
+msgstr "Date d'anniversaire du client"
+
+#: ../../includes/languages/db_filed_list.php:54
+msgid "user_personnal_code_admin_side"
+msgstr "Code client"
+
+#: ../../includes/languages/db_filed_list.php:55
+msgid "user_postal_code_admin_side"
+msgstr "Code postal du client"
+
+#: ../../includes/languages/db_filed_list.php:56
+msgid "user_postal_town_admin_side"
+msgstr "Ville du client"
+
+#: ../../includes/languages/db_filed_list.php:57
+msgid "user_postal_state_admin_side"
+msgstr "R&eacute;gion du client"
+
+#: ../../includes/languages/db_filed_list.php:58
+msgid "user_postal_country_admin_side"
+msgstr "Pays du client"
+
+#: ../../includes/languages/db_filed_list.php:60
+msgid "payment_form_type"
+msgstr "Type de formulaire"
+
+#: ../../includes/languages/db_filed_list.php:61
+msgid "payment_form_mandatory_fields"
+msgstr "Champs obligatoire pour l'utilisateur"
+
+#: ../../includes/languages/db_filed_list.php:62
+msgid "payment_form_button_content"
+msgstr "Intitulé du boutton du formulaire"
+
+#: ../../includes/languages/db_filed_list.php:63
+msgid "payment_form_cgv_url"
+msgstr "Url vers les conditions g&eacute;n&eacute;rale de vente"
+
+#: ../../includes/languages/db_filed_list.php:65
+msgid "single_payment"
+msgstr "Paiement unique"
+
+#: ../../includes/languages/db_filed_list.php:66
+msgid "multiple_payment"
+msgstr "Paiement en plusieurs fois"
+
+#: ../../includes/languages/db_filed_list.php:67
+msgid "subscription_payment"
+msgstr "Paiement par abonnement"
+
+#: ../../includes/languages/db_filed_list.php:68
+msgid "payment_amount"
+msgstr "Montant"
+
+#: ../../includes/languages/db_filed_list.php:69
+msgid "payment_currency"
+msgstr "Devise"
+
+#: ../../includes/languages/db_filed_list.php:70
+msgid "payment_type"
+msgstr "Type de paiement"
+
+#: ../../includes/languages/db_filed_list.php:71
+msgid "payment_recurrent_amount"
+msgstr "Montant des pr&eacute;l&egrave;vements"
+
+#: ../../includes/languages/db_filed_list.php:72
+msgid "payment_recurrent_number"
+msgstr "Nombre de pr&eacute;l&egrave;vements"
+
+#: ../../includes/languages/db_filed_list.php:73
+msgid "payment_recurrent_frequency"
+msgstr "Fr&eacute;quence des pr&eacute;l&egrave;vements"
+
+#: ../../includes/languages/db_filed_list.php:74
+msgid "payment_recurrent_day_of_month"
+msgstr "Jour du mois auquel le pr&eacute;l&egrave;vement aura lieu"
+
+#: ../../includes/languages/db_filed_list.php:75
+msgid "payment_recurrent_date"
+msgstr "Date des pr&eacute;l&egrave;vements suivant"
+
+#: ../../includes/languages/db_filed_list.php:76
+msgid "payment_recurrent_start_delay"
+msgstr "D&eacute;lai d'ex&eacute;cution"
+
+#: ../../includes/languages/db_filed_list.php:77
+msgid "payment_subscription_reference"
+msgstr "R&eacute;f&eacute;rence de l'abonnement"
+
+#: ../../includes/languages/db_filed_list.php:78
+msgid "payment_subscription_length"
+msgstr "Dur&eacute;e de l'abonnement (en mois)"
+
+#: ../../includes/languages/db_filed_list.php:79
+msgid "payment_form_name"
+msgstr "Nom du formulaire"
+
+#: ../../includes/languages/db_filed_list.php:80
+msgid "payment_reference_prefix"
+msgstr "Pr&eacute;fixe pour la r&eacute;f&eacute;rence"
+
+#: ../../includes/languages/db_filed_list.php:81
+msgid "payment_name"
+msgstr "Nom de l'offre"
+
+#: ../../includes/librairies/database.class.php:87
+msgid "Valider mon paiement"
+msgstr "Valider mon paiement"
+
+#: ../../includes/librairies/display.class.php:122
+#, php-format
+msgid "Cette page doit &ecirc;tre cr&eacute;&eacute; dans %s &agrave; la ligne %d"
+msgstr "Cette page doit &ecirc;tre cr&eacute;&eacute; dans %s &agrave; la ligne %d"
+
+#: ../../includes/librairies/display.class.php:197
+msgid "Aucune aide n'est disponible pour cette page."
+msgstr "Aucune aide n'est disponible pour cette page."
+
+#: ../../includes/librairies/form.class.php:154
+#: ../../includes/librairies/form.class.php:266
+msgid "Input type not allowed here in "
+msgstr "Input type not allowed here in "
+
+#: ../../includes/librairies/init.class.php:66
+msgid "Options principale du module de paiement Klik and pay"
+msgstr "Options principale du module de paiement Klik and pay"
+
+#: ../../includes/librairies/init.class.php:66
+#: ../../includes/librairies/init.class.php:69
+msgid "Klik and Pay"
+msgstr "Klik and Pay"
+
+#: ../../includes/librairies/init.class.php:69
+#: ../../includes/librairies/orders.class.php:75
+msgid "Liste des commandes"
+msgstr "Liste des commandes"
+
+#: ../../includes/librairies/init.class.php:72
+msgid "Commandes"
+msgstr "Commandes"
+
+#: ../../includes/librairies/init.class.php:73
+msgid "Formulaires"
+msgstr "Formulaires"
+
+#: ../../includes/librairies/init.class.php:74
+msgid "Offres"
+msgstr "Offres"
+
+#: ../../includes/librairies/offers.class.php:76
+#: ../../includes/librairies/offers.class.php:662
+msgid "Liste des offres"
+msgstr "Liste des offres"
+
+#: ../../includes/librairies/offers.class.php:82
+#, php-format
+msgid "&Eacute;diter l'offre \"%s\""
+msgstr "&Eacute;diter l'offre \"%s\""
+
+#: ../../includes/librairies/offers.class.php:86
+msgid "Ajouter une offre"
+msgstr "Ajouter une offre"
+
+#: ../../includes/librairies/offers.class.php:173
+#: ../../includes/librairies/payment_forms.class.php:180
+#, php-format
+msgid "Une erreur est survenue lors de l'enregistrement de %s"
+msgstr "Une erreur est survenue lors de l'enregistrement de %s"
+
+#: ../../includes/librairies/offers.class.php:187
+#: ../../includes/librairies/orders.class.php:139
+#: ../../includes/librairies/payment_forms.class.php:253
+#, php-format
+msgid "L'enregistrement de %s s'est d&eacute;roul&eacute; avec succ&eacute;s"
+msgstr "L'enregistrement de %s s'est d&eacute;roul&eacute; avec succ&eacute;s"
+
+#: ../../includes/librairies/offers.class.php:191
+#: ../../includes/librairies/orders.class.php:147
+#: ../../includes/librairies/payment_forms.class.php:257
+msgid "Vous n'avez pas les droits n&eacute;cessaire pour effectuer cette action."
+msgstr "Vous n'avez pas les droits n&eacute;cessaire pour effectuer cette action."
+
+#: ../../includes/librairies/offers.class.php:209
+#: ../../includes/librairies/payment_forms.class.php:275
+msgid "Existing payment forms listing"
+msgstr "Existing payment forms listing"
+
+#: ../../includes/librairies/offers.class.php:211
+msgid "Libell&eacute; de l'offre"
+msgstr "Libell&eacute; de l'offre"
+
+#: ../../includes/librairies/offers.class.php:212
+msgid "Type d'offre"
+msgstr "Type d'offre"
+
+#: ../../includes/librairies/offers.class.php:213
+#: ../../includes/librairies/orders.class.php:167
+msgid "Montant"
+msgstr "Montant"
+
+#: ../../includes/librairies/offers.class.php:214
+#: ../../includes/librairies/orders.class.php:165
+msgid "R&eacute;f&eacute;rence"
+msgstr "R&eacute;f&eacute;rence"
+
+#: ../../includes/librairies/offers.class.php:215
+msgid "Abonnement"
+msgstr "Abonnement"
+
+#: ../../includes/librairies/offers.class.php:237
+#: ../../includes/librairies/payment_forms.class.php:295
+msgid "Modifier"
+msgstr "Modifier"
+
+#: ../../includes/librairies/offers.class.php:244
+#: ../../includes/librairies/orders.class.php:191
+#: ../../includes/librairies/payment_forms.class.php:302
+msgid "Voir"
+msgstr "Voir"
+
+#: ../../includes/librairies/offers.class.php:254
+#: ../../includes/librairies/offers.class.php:519
+#: ../../includes/librairies/orders.class.php:201
+#: ../../includes/librairies/orders.class.php:490
+#: ../../includes/librairies/payment_forms.class.php:312
+#: ../../includes/librairies/payment_forms.class.php:556
+msgid "Supprimer"
+msgstr "Supprimer"
+
+#: ../../includes/librairies/offers.class.php:272
+#, php-format
+msgid "%d pr&eacute;l&egrave;vements de %s %s"
+msgstr "%d pr&eacute;l&egrave;vements de %s %s"
+
+#: ../../includes/librairies/offers.class.php:292
+#: ../../includes/librairies/offers.class.php:510
+#: ../../includes/librairies/payment_forms.class.php:332
+#: ../../includes/librairies/payment_forms.class.php:547
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#: ../../includes/librairies/offers.class.php:299
+msgid "Aucune offre n'a encore &eacute;t&eacute; cr&eacute;&eacute;"
+msgstr "Aucune offre n'a encore &eacute;t&eacute; cr&eacute;&eacute;"
+
+#: ../../includes/librairies/offers.class.php:378
+msgid "Permet de localiser une offre rapidement. N'a aucune incidence sur le paiment en lui m&ecirc;me"
+msgstr "Permet de localiser une offre rapidement. N'a aucune incidence sur le paiment en lui m&ecirc;me"
+
+#: ../../includes/librairies/offers.class.php:381
+msgid "D&eacute;finit une pr&eacute;fixe pour l'offre. Permet d'obtenir un identifiant unique par transaction"
+msgstr "D&eacute;finit une pr&eacute;fixe pour l'offre. Permet d'obtenir un identifiant unique par transaction"
+
+#: ../../includes/librairies/offers.class.php:384
+msgid "Si le montant est le m&ecirc;me que le premier paiement, mettre 0 (z&eacute;ro)"
+msgstr "Si le montant est le m&ecirc;me que le premier paiement, mettre 0 (z&eacute;ro)"
+
+#: ../../includes/librairies/offers.class.php:387
+msgid "En mois"
+msgstr "En mois"
+
+#: ../../includes/librairies/offers.class.php:390
+msgid "Si le pr&eacute;l&egrave;vement a lieu le m&ecirc;me jour que le premier paiement, mettre 0 (z&eacute;ro)"
+msgstr "Si le pr&eacute;l&egrave;vement a lieu le m&ecirc;me jour que le premier paiement, mettre 0 (z&eacute;ro)"
+
+#: ../../includes/librairies/offers.class.php:393
+msgid "Nombre de jours avant l'ex&eacute;cution du paiement (0 pour un d&eacute;but imm&eacute;diat)"
+msgstr "Nombre de jours avant l'ex&eacute;cution du paiement (0 pour un d&eacute;but imm&eacute;diat)"
+
+#: ../../includes/librairies/offers.class.php:396
+msgid "R&eacute;f&eacute;rence donn&eacute;e par klikandpay dans l'interface d'administration"
+msgstr "R&eacute;f&eacute;rence donn&eacute;e par klikandpay dans l'interface d'administration"
+
+#: ../../includes/librairies/offers.class.php:399
+msgid "Cette information est INFORMATIVE, elle permet de savoir si la fin de l'abonnement est pass&eacute;"
+msgstr "Cette information est INFORMATIVE, elle permet de savoir si la fin de l'abonnement est pass&eacute;"
+
+#: ../../includes/librairies/offers.class.php:443
+msgid "Param&egrave;tres pour les paiements multiples"
+msgstr "Param&egrave;tres pour les paiements multiples"
+
+#: ../../includes/librairies/offers.class.php:447
+msgid "Param&egrave;tres pour les abonnements"
+msgstr "Param&egrave;tres pour les abonnements"
+
+#: ../../includes/librairies/offers.class.php:472
+#: ../../includes/librairies/payment_forms.class.php:500
+msgid "&Ecirc;tes vous s&ucirc;r de vouloir quitter cette page? Vous perdrez toutes les modification que vous aurez effectu&eacute;es"
+msgstr "&Ecirc;tes vous s&ucirc;r de vouloir quitter cette page? Vous perdrez toutes les modification que vous aurez effectu&eacute;es"
+
+#: ../../includes/librairies/offers.class.php:484
+#: ../../includes/librairies/payment_forms.class.php:512
+msgid "&Ecirc;tes vous s&ucirc;r de vouloir supprimer ce formulaire?"
+msgstr "&Ecirc;tes vous s&ucirc;r de vouloir supprimer ce formulaire?"
+
+#: ../../includes/librairies/offers.class.php:515
+#: ../../includes/librairies/payment_forms.class.php:552
+msgid "Enregistrer"
+msgstr "Enregistrer"
+
+#: ../../includes/librairies/offers.class.php:515
+#: ../../includes/librairies/payment_forms.class.php:552
+msgid "Enregistrer et continuer l'&eacute;dition"
+msgstr "Enregistrer et continuer l'&eacute;dition"
+
+#: ../../includes/librairies/offers.class.php:522
+#: ../../includes/librairies/orders.class.php:493
+#: ../../includes/librairies/payment_forms.class.php:559
+msgid "Retour"
+msgstr "Retour"
+
+#: ../../includes/librairies/offers.class.php:614
+msgid "Paiement unique"
+msgstr "Paiement unique"
+
+#: ../../includes/librairies/offers.class.php:622
+#, php-format
+msgid "Abonnement: %s&nbsp;%s; %s&nbsp;fois"
+msgstr "Abonnement: %s&nbsp;%s; %s&nbsp;fois"
+
+#: ../../includes/librairies/offers.class.php:632
+msgid "Supprimer l'association enter l'offre et le formulaire"
+msgstr "Supprimer l'association enter l'offre et le formulaire"
+
+#: ../../includes/librairies/offers.class.php:647
+msgid "Associer cette offre"
+msgstr "Associer cette offre"
+
+#: ../../includes/librairies/offers.class.php:655
+msgid "Aucune offre n'a &eacute;t&eacute; d&eacute;finie pour le moment. Pour en cr&eacute;er une, rendez-vous dans le menu \"Offres\" &agrave; gauche"
+msgstr "Aucune offre n'a &eacute;t&eacute; d&eacute;finie pour le moment. Pour en cr&eacute;er une, rendez-vous dans le menu \"Offres\" &agrave; gauche"
+
+#: ../../includes/librairies/offers.class.php:663
+msgid "Un formulaire peut contenir une ou plusieurs offres que le client pourra choisir"
+msgstr "Un formulaire peut contenir une ou plusieurs offres que le client pourra choisir"
+
+#: ../../includes/librairies/offers.class.php:677
+msgid "Vous ne disposez pas des droits suffisant pour visualiser la liste des offres affect&eacute;es &agrave; ce formulaire"
+msgstr "Vous ne disposez pas des droits suffisant pour visualiser la liste des offres affect&eacute;es &agrave; ce formulaire"
+
+#: ../../includes/librairies/offers.class.php:698
+#, php-format
+msgid "%s &agrave; %s %s"
+msgstr "%s &agrave; %s %s"
+
+#: ../../includes/librairies/offers.class.php:713
+#, php-format
+msgid "%s &agrave; %s %s, puis pr&eacute;l&eacute;vement de %s %s tous les %s mois pendant %s mois"
+msgstr "%s &agrave; %s %s, puis pr&eacute;l&eacute;vement de %s %s tous les %s mois pendant %s mois"
+
+#: ../../includes/librairies/orders.class.php:81
+#, php-format
+msgid "Voir la commande \"%s\""
+msgstr "Voir la commande \"%s\""
+
+#: ../../includes/librairies/orders.class.php:103
+#, php-format
+msgid "La commande \"%s\" a &eacute;t&eacute; supprim&eacute;e avec succ&eacute;s"
+msgstr "La commande \"%s\" a &eacute;t&eacute; supprim&eacute;e avec succ&eacute;s"
+
+#: ../../includes/librairies/orders.class.php:129
+#, php-format
+msgid "Une erreur est survenue lors de la suppression de %s"
+msgstr "Une erreur est survenue lors de la suppression de %s"
+
+#: ../../includes/librairies/orders.class.php:163
+msgid "orders listing"
+msgstr "Liste des commandes"
+
+#: ../../includes/librairies/orders.class.php:166
+msgid "Date"
+msgstr "Date"
+
+#: ../../includes/librairies/orders.class.php:168
+msgid "Statut"
+msgstr "Statut"
+
+#: ../../includes/librairies/orders.class.php:169
+msgid "Informations compl&eacute;mentaires"
+msgstr "Informations compl&eacute;mentaires"
+
+#: ../../includes/librairies/orders.class.php:218
+#, php-format
+msgid "Dur&eacute;e abonnement : %s mois"
+msgstr "Dur&eacute;e abonnement : %s mois"
+
+#: ../../includes/librairies/orders.class.php:218
+#: ../../includes/librairies/orders.class.php:407
+msgid "Date de fin"
+msgstr "Date de fin"
+
+#: ../../includes/librairies/orders.class.php:236
+msgid "Aucune commande n'a encore &eacute;t&eacute; pass&eacute;e"
+msgstr "Aucune commande n'a encore &eacute;t&eacute; pass&eacute;e"
+
+#: ../../includes/librairies/orders.class.php:307
+msgid "D&eacute;but imm&eacute;diat"
+msgstr "D&eacute;but imm&eacute;diat"
+
+#: ../../includes/librairies/orders.class.php:311
+#, php-format
+msgid "%d jours apr&eacute;s l'inscription"
+msgstr "%d jours apr&eacute;s l'inscription"
+
+#: ../../includes/librairies/orders.class.php:320
+#, php-format
+msgid "Le %d de chaque mois"
+msgstr "Le %d de chaque mois"
+
+#: ../../includes/librairies/orders.class.php:435
+msgid "Informations commandes"
+msgstr "Informations commandes"
+
+#: ../../includes/librairies/orders.class.php:439
+msgid "Informations client"
+msgstr "Informations client"
+
+#: ../../includes/librairies/orders.class.php:443
+msgid "Informations paiement"
+msgstr "Informations paiement"
+
+#: ../../includes/librairies/orders.class.php:466
+msgid "&Ecirc;tes vous s&ucirc;r de vouloir supprimer cette commande?"
+msgstr "&Ecirc;tes vous s&ucirc;r de vouloir supprimer cette commande?"
+
+#: ../../includes/librairies/orders.class.php:615
+#, php-format
+msgid "Votre paiement de %s &euro; a bien &eacute;t&eacute; effectu&eacute;"
+msgstr "Votre paiement de %s &euro; a bien &eacute;t&eacute; effectu&eacute;"
+
+#: ../../includes/librairies/payment_forms.class.php:75
+msgid "Liste des formulaires"
+msgstr "Liste des formulaires"
+
+#: ../../includes/librairies/payment_forms.class.php:81
+#, php-format
+msgid "&Eacute;diter le formulaire \"%s\""
+msgstr "&Eacute;diter le formulaire \"%s\""
+
+#: ../../includes/librairies/payment_forms.class.php:85
+msgid "Ajouter un formulaire"
+msgstr "Ajouter un formulaire"
+
+#: ../../includes/librairies/payment_forms.class.php:277
+msgid "Nom du formulaire"
+msgstr "Nom du formulaire"
+
+#: ../../includes/librairies/payment_forms.class.php:339
+msgid "Aucun formulaire n'a encore &eacute;t&eacute; cr&eacute;&eacute;"
+msgstr "Aucun formulaire n'a encore &eacute;t&eacute; cr&eacute;&eacute;"
+
+#: ../../includes/librairies/payment_forms.class.php:345
+#, php-format
+msgid "Ajouter : %s dans les pages que vous allez cr&eacute;er pour les retour du client lorsqu'il a termin&eacute; le paiement sur le site de klikandpay."
+msgstr "Ajouter : %s dans les pages que vous allez cr&eacute;er pour les retour du client lorsqu'il a termin&eacute; le paiement sur le site de klikandpay."
+
+#: ../../includes/librairies/payment_forms.class.php:393
+msgid "Le montant est exprim&eacute; en centimes.<br/>exemple: pour 1&euro; mettre 100"
+msgstr "Le montant est exprim&eacute; en centimes.<br/>exemple: pour 1&euro; mettre 100"
+
+#: ../../includes/librairies/payment_forms.class.php:459
+msgid "Cochez les champs que vous souhaitez d&eacute;finir comme obligatoire pour ce formulaire"
+msgstr "Cochez les champs que vous souhaitez d&eacute;finir comme obligatoire pour ce formulaire"
+
+#: ../../includes/librairies/payment_forms.class.php:502
+msgid "&Ecirc;tes vous s&ucirc;r de vouloir supprimer l'association entre cette offre et ce formulaire?"
+msgstr "&Ecirc;tes vous s&ucirc;r de vouloir supprimer l'association entre cette offre et ce formulaire?"
+
+#: ../../includes/librairies/payment_forms.class.php:528
+msgid "Pour utiliser ce formulaire, ins&eacute;rer le code ci-dessous &agrave; l'endroit que vous souhaitez"
+msgstr "Pour utiliser ce formulaire, ins&eacute;rer le code ci-dessous &agrave; l'endroit que vous souhaitez"
+
+#: ../../includes/librairies/payment_forms.class.php:655
+msgid "L'adresse email fournie n'est pas une adresse email valable"
+msgstr "L'adresse email fournie n'est pas une adresse email valable"
+
+#: ../../includes/librairies/payment_forms.class.php:661
+msgid "Vous devez accepter les conditions g&eacute;n&eacute;rales de vente"
+msgstr "Vous devez accepter les conditions g&eacute;n&eacute;rales de vente"
+
+#: ../../includes/librairies/payment_forms.class.php:679
+msgid "Tous les champs marqu&eacute;s d'une &eacute;toile sont obligatoires"
+msgstr "Tous les champs marqu&eacute;s d'une &eacute;toile sont obligatoires"
+
+#: ../../includes/librairies/payment_forms.class.php:701
+#, php-format
+msgid "Une erreur est survenue. Merci de nous contacter en pr&eacute;cisant le code d'erreur suivant: Form%dInvalid"
+msgstr "Une erreur est survenue. Merci de nous contacter en pr&eacute;cisant le code d'erreur suivant: Form%dInvalid"
+
+#: ../../includes/librairies/payment_forms.class.php:792
+#, php-format
+msgid "J'accepte les %sconditions g&eacute;n&eacute;rale de vente%s"
+msgstr "J'accepte les %sconditions g&eacute;n&eacute;rales de vente%s"
+
+#: ../../includes/librairies/payment_forms.class.php:804
+#, php-format
+msgid "Aucune offre n'est associ&eacute;e &agrave; ce formulaire. Nous ne pouvons donner suite &agrave; votre demande. Pour plus d'informations, contactez-nous en indiquant le code d'erreur suivant: ErrorNOF#%d"
+msgstr "Aucune offre n'est associ&eacute;e &agrave; ce formulaire. Nous ne pouvons donner suite &agrave; votre demande. Pour plus d'informations, contactez-nous en indiquant le code d'erreur suivant: ErrorNOF#%d"
+
+#: ../../includes/librairies/options/options.class.php:51
+msgid "Les options ont bien &eacute;t&eacute; enregistr&eacute;es"
+msgstr "Les options ont bien &eacute;t&eacute; enregistr&eacute;es"
+
+#: ../../includes/librairies/options/options.class.php:71
+msgid "Informations de la boutique"
+msgstr "Informations de la boutique"
+
+#: ../../includes/librairies/options/options.class.php:115
+#, php-format
+msgid "Ajouter : %s dans les pages que vous allez cr&eacute;er."
+msgstr "Ajouter : %s dans les pages que vous allez cr&eacute;er."
+
+#: ../../includes/librairies/options/options.class.php:138
+msgid "Num&eacute;ro de TPE de la boutique"
+msgstr "Num&eacute;ro de TPE de la boutique"
+
+#: ../../includes/librairies/options/options.class.php:141
+msgid "Environnement de la boutique"
+msgstr "Environnement de la boutique"
+
+#: ../../includes/librairies/options/options.class.php:223
+msgid "Mode test"
+msgstr "Mode test"
+
+#: ../../includes/librairies/options/options.class.php:224
+msgid "Mode Production"
+msgstr "Mode Production"
+
+#: ../../includes/librairies/options/options.class.php:237
+msgid "Url de retour pour un paiement accept&eacute;"
+msgstr "Url de retour pour un paiement accept&eacute;"
+
+#: ../../includes/librairies/options/options.class.php:238
+msgid "Url de retour pour un paiement annul&eacute;"
+msgstr "Url de retour pour un paiement annul&eacute;"
+
+#: ../../includes/librairies/options/options.class.php:239
+msgid "Url de retour pour un paiement refus&eacute;"
+msgstr "Url de retour pour un paiement refus&eacute;"
+
+#~ msgid ""
+#~ "Une erreur est survenue lors de votre paiement, pour plus d'informations "
+#~ "contactez nous en pr&eacute;cisant le cod d'erreur suivant: PaymentReturn#"
+#~ msgstr ""
+#~ "Une erreur est survenue lors de votre paiement, pour plus d'informations "
+#~ "contactez nous en pr&eacute;cisant le cod d'erreur suivant: PaymentReturn#"
+
+#~ msgid "Urls de retour apr&eacute;s un paiement"
+#~ msgstr "Urls de retour apr&eacute;s un paiement"
+
+#~ msgid "Num&eacute;ro de rang de la boutique"
+#~ msgstr "Num&eacute;ro de rang de la boutique"
+
+#~ msgid "Identifiant de la boutique"
+#~ msgstr "Identifiant de la boutique"
+
+#~ msgid "test mise a jour"
+#~ msgstr "test mise a jour jfdksmljhfksqmfjdsqm"
+
+#~ msgid "Listes des commandes"
+#~ msgstr "Listes des commandes"
+
+#~ msgid "Listes des formulaires"
+#~ msgstr "Listes des formulaires"
+
+#~ msgid "Listes des offres"
+#~ msgstr "Listes des offres"
+
+#~ msgid "Cr&eacute;er une nouvelle offre"
+#~ msgstr "Cr&eacute;er une nouvelle offre"
+
+#~ msgid "Annuler"
+#~ msgstr "Annuler"
+
+#~ msgid "Enregistrer l'offre"
+#~ msgstr "Enregistrer l'offre"
+
+#~ msgid "%s a &eacute;t&eacute; supprim&eacute;e avec succ&eacute;s"
+#~ msgstr "%s a &eacute;t&eacute; supprim&eacute;e avec succ&eacute;s"
+
+#~ msgid "Laisser vide si identique au montant initial"
+#~ msgstr "Laisser vide si identique au montant initial"
+
+#~ msgid "currency"
+#~ msgstr "Devise"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#, fuzzy
+#~ msgid "single_offer"
+#~ msgstr "Paiement unique"
+
+#, fuzzy
+#~ msgid "multiple_offer"
+#~ msgstr "Paiement en plusieurs fois"
